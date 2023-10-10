@@ -1,3 +1,5 @@
+$ git mv main.py P2LAB1_LombardiDillan.py
+
 def driving_cost(driven_miles, miles_per_gallon, dollars_per_gallon):
 
   gallon_used = driven_miles / miles_per_gallon
